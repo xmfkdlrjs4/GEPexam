@@ -1220,3 +1220,174 @@ Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Local
 [2017.05.18-13.13.21:262][824]LogSavePackage: Save=18.12ms
 [2017.05.18-13.13.21:262][824]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/BulletBP74ABE5BE4C61CA943B4EE9AC9784CE31.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Gun/BulletBP.uasset'
 [2017.05.18-13.13.21:266][824]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Gun/BulletBP.uasset
+[2017.05.18-13.13.58:181][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.05.18-13.13.58:217][202]LogSavePackage: Save=35.81ms
+[2017.05.18-13.13.58:217][202]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/Untitled_1_Auto4AAE7B7BD436253B2D6E0D9B02AC052F5.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2017.05.18-13.13.58:220][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2017.05.18-13.13.58:221][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.057
+[2017.05.18-13.13.58:221][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2017.05.18-13.15.14:177][455]LogEditorTransaction: Undo 위젯 이동
+[2017.05.18-13.17.28:828][577]BlueprintLog: New page: UI 컴파일
+[2017.05.18-13.17.30:881][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset" SILENT=true
+[2017.05.18-13.17.30:895][613]LogSavePackage: Save=12.01ms
+[2017.05.18-13.17.30:895][613]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/UI8E0093A447C44C0573403382F60AA739.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset'
+[2017.05.18-13.17.30:899][613]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset
+[2017.05.18-13.18.00:614][604]BlueprintLog: New page: UI 컴파일
+[2017.05.18-13.18.25:414][408]BlueprintLog: New page: UI 컴파일
+[2017.05.18-13.18.26:141][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset" SILENT=true
+[2017.05.18-13.18.26:158][464]LogSavePackage: Save=10.84ms
+[2017.05.18-13.18.26:158][464]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/UI92C001164D0F2A2D98D5618801FAD5B4.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset'
+[2017.05.18-13.18.26:163][464]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset
+[2017.05.18-13.18.48:086][405]BlueprintLog: New page: UI 컴파일
+[2017.05.18-13.18.48:810][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset" SILENT=true
+[2017.05.18-13.18.48:825][448]LogSavePackage: Save=11.68ms
+[2017.05.18-13.18.48:825][448]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/UI95FED0874507390853EC98B9B9763834.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset'
+[2017.05.18-13.18.48:832][448]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset
+[2017.05.18-13.19.08:678][119]BlueprintLog: New page: UI 컴파일
+[2017.05.18-13.19.09:390][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset" SILENT=true
+[2017.05.18-13.19.09:407][168]LogSavePackage: Save=13.25ms
+[2017.05.18-13.19.09:407][168]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/UI9AB2DC3C4339AAB9BB48ECBFD06E19A9.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset'
+[2017.05.18-13.19.09:412][168]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/UI.uasset
+[2017.05.18-13.20.13:447][ 83]LogLinker: '/Game/UI/HudBP' 파일을 찾을 수 없습니다.
+[2017.05.18-13.20.13:448][ 83]LogLinker: '/Game/UI/HudBP' 파일을 찾을 수 없습니다.
+[2017.05.18-13.20.13:449][ 83]LogLinker: '/Game/ShooterGameMode' 파일을 찾을 수 없습니다.
+[2017.05.18-13.20.13:449][ 83]LogLinker: '/Game/ShooterGameMode' 파일을 찾을 수 없습니다.
+[2017.05.18-13.20.13:463][ 83]LogBlueprint:Warning: [MyGameMode] 'GameUI' variable not found. Base class was probably changed.
+[2017.05.18-13.20.13:463][ 83]LogBlueprint:Warning: [MyGameMode] 'GameUI' variable not found. Base class was probably changed.
+[2017.05.18-13.20.19:669][479]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.18-13.20.51:358][897]BlueprintLog: New page: MyGameMode 컴파일
+[2017.05.18-13.20.52:497][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameMode" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset" SILENT=true
+[2017.05.18-13.20.52:519][934]LogSavePackage: Save=16.67ms
+[2017.05.18-13.20.52:519][934]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/MyGameMode8D4BCC7F46435E220B93DA80C7234C0D.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset'
+[2017.05.18-13.20.52:523][934]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset
+[2017.05.18-13.20.54:701][130]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.20.54:716][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.20.54:717][130]PIE: New page: PIE 세션: Untitled_1 (2017. 5. 19. 오전 7:20:54)
+[2017.05.18-13.20.54:717][130]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.18-13.20.54:719][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002127s)
+[2017.05.18-13.20.54:720][130]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.18-13.20.54:720][130]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2017.05.18-13.20.54:720][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003488s)
+[2017.05.18-13.20.54:772][130]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.18-13.20.54:786][130]LogInit: FAudioDevice initialized.
+[2017.05.18-13.20.54:817][130]LogLoad: Game class is 'MyGameMode_C'
+[2017.05.18-13.20.54:819][130]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.18-22.20.54
+[2017.05.18-13.20.54:819][130]LogWorld: Bringing up level for play took: 0.000939
+[2017.05.18-13.20.54:822][130]PIE: 정보 /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: 0.702
+[2017.05.18-13.22.20:497][897]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.18-13.22.21:245][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.22.21:277][935]LogSavePackage: Save=26.78ms
+[2017.05.18-13.22.21:277][935]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/EnemyBPE93A5E3645AB00A392FBAABCFD340CA7.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.22.21:281][935]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.22.40:301][176]BlueprintLog: New page: MyGameMode 컴파일
+[2017.05.18-13.22.41:362][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameMode" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset" SILENT=true
+[2017.05.18-13.22.41:383][204]LogSavePackage: Save=17.29ms
+[2017.05.18-13.22.41:383][204]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/MyGameMode9E7114F54854ABAD9E86E5B0A3228646.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset'
+[2017.05.18-13.22.41:387][204]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset
+[2017.05.18-13.22.57:852][318]BlueprintLog: New page: MyGameMode 컴파일
+[2017.05.18-13.22.58:902][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameMode" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset" SILENT=true
+[2017.05.18-13.22.58:924][350]LogSavePackage: Save=17.70ms
+[2017.05.18-13.22.58:924][350]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/MyGameMode135F1E2748365F5F8354E980C154BA87.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset'
+[2017.05.18-13.22.58:928][350]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/MyGameMode.uasset
+[2017.05.18-13.23.23:995][ 67]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.18-13.23.24:905][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.23.24:937][119]LogSavePackage: Save=27.66ms
+[2017.05.18-13.23.24:937][119]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/EnemyBP7591B0D541B229B8908D659396CAAAA7.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.23.24:942][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.23.26:447][255]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.23.26:460][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.23.26:460][255]PIE: New page: PIE 세션: Untitled_1 (2017. 5. 19. 오전 7:23:26)
+[2017.05.18-13.23.26:460][255]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.18-13.23.26:462][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001952s)
+[2017.05.18-13.23.26:463][255]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.18-13.23.26:463][255]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2017.05.18-13.23.26:463][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003088s)
+[2017.05.18-13.23.26:508][255]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.18-13.23.26:540][255]LogInit: FAudioDevice initialized.
+[2017.05.18-13.23.26:572][255]LogLoad: Game class is 'MyGameMode_C'
+[2017.05.18-13.23.26:574][255]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.18-22.23.26
+[2017.05.18-13.23.26:574][255]LogWorld: Bringing up level for play took: 0.000962
+[2017.05.18-13.23.26:577][255]PIE: 정보 /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: 0.456
+[2017.05.18-13.24.24:698][786]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.18-13.24.25:492][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.18-13.24.25:526][813]LogSavePackage: Save=29.35ms
+[2017.05.18-13.24.25:526][813]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/EnemyBP15F0A48945595EE8A498E2AA96340D6A.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset'
+[2017.05.18-13.24.25:530][813]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Enemy/EnemyBP.uasset
+[2017.05.18-13.24.27:042][943]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.18-13.24.27:053][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.18-13.24.27:053][943]PIE: New page: PIE 세션: Untitled_1 (2017. 5. 19. 오전 7:24:27)
+[2017.05.18-13.24.27:053][943]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.18-13.24.27:055][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002128s)
+[2017.05.18-13.24.27:056][943]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.18-13.24.27:056][943]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2017.05.18-13.24.27:056][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003388s)
+[2017.05.18-13.24.27:111][943]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.18-13.24.27:126][943]LogInit: FAudioDevice initialized.
+[2017.05.18-13.24.27:156][943]LogLoad: Game class is 'MyGameMode_C'
+[2017.05.18-13.24.27:157][943]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.18-22.24.27
+[2017.05.18-13.24.27:158][943]LogWorld: Bringing up level for play took: 0.000908
+[2017.05.18-13.24.27:160][943]PIE: 정보 /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: 1.04
+[2017.05.18-13.24.58:304][179]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.18-13.25.18:030][259]Cmd: TRANSACTION UNDO
+[2017.05.18-13.25.18:030][259]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.25.18:052][259]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.05.18-13.25.18:052][259]LogGeometryMode:Warning: Unable to resolve Box브러시 Brush in new BSP, see above
+[2017.05.18-13.25.18:052][259]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.25.20:772][511]Cmd: TRANSACTION UNDO
+[2017.05.18-13.25.20:772][511]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.25.20:789][511]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.05.18-13.25.20:789][511]LogGeometryMode:Warning: Unable to resolve Box브러시 Brush in new BSP, see above
+[2017.05.18-13.25.20:789][511]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.25.21:693][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.18-13.25.29:189][291]Cmd: TRANSACTION UNDO
+[2017.05.18-13.25.29:189][291]LogEditorTransaction: Undo 액터 스케일
+[2017.05.18-13.25.33:871][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.18-13.25.35:904][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.18-13.25.49:763][329]Cmd: TRANSACTION UNDO
+[2017.05.18-13.25.49:763][329]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.25.49:769][329]LogGeometryMode:Warning: Unable to find 4 Vertex(s) in new BSP
+[2017.05.18-13.25.49:769][329]LogGeometryMode:Warning: Unable to resolve Box브러시 Brush in new BSP, see above
+[2017.05.18-13.25.49:769][329]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.25.50:984][398]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.05.18-13.25.57:704][ 42]Cmd: TRANSACTION UNDO
+[2017.05.18-13.25.57:704][ 42]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.26.05:372][789]Cmd: TRANSACTION UNDO
+[2017.05.18-13.26.05:372][789]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.26.05:375][789]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.05.18-13.26.05:375][789]LogGeometryMode:Warning: Unable to resolve Box브러시 Brush in new BSP, see above
+[2017.05.18-13.26.05:375][789]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.26.07:206][926]LogGeomTools: Triangulation of poly failed.
+[2017.05.18-13.26.07:206][926]LogGeomTools: Triangulation of poly failed.
+[2017.05.18-13.26.07:607][962]Cmd: TRANSACTION UNDO
+[2017.05.18-13.26.07:608][962]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.26.07:630][962]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.05.18-13.26.07:630][962]LogGeometryMode:Warning: Unable to resolve Box브러시 Brush in new BSP, see above
+[2017.05.18-13.26.07:630][962]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.26.18:633][ 81]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.05.18-13.26.21:597][412]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.18-13.26.33:714][689]Cmd: TRANSACTION UNDO
+[2017.05.18-13.26.33:714][689]LogEditorTransaction: Undo 액터 스케일
+[2017.05.18-13.26.34:687][751]Cmd: TRANSACTION UNDO
+[2017.05.18-13.26.34:687][751]LogEditorTransaction: Undo 액터 스케일
+[2017.05.18-13.27.12:791][808]Cmd: TRANSACTION UNDO
+[2017.05.18-13.27.12:791][808]LogEditorTransaction: Undo 액터 이동
+[2017.05.18-13.27.12:815][808]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2017.05.18-13.27.12:815][808]LogGeometryMode:Warning: Unable to resolve Box브러시2 Brush in new BSP, see above
+[2017.05.18-13.27.12:815][808]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.27.23:663][864]LogTexture:Display: 텍스처 빌드중: Texture2D_2 (G8, 128X128) - 155 MB 총 VRAM
+[2017.05.18-13.27.28:230][314]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.18-13.28.12:191][987]LogEditorViewport: Clicking on Actor (context menu): Brush (Box 브러시2)
+[2017.05.18-13.28.13:139][ 91]LogGeometryMode:Warning: Unable to find Box브러시3 Brush(s) in new BSP
+[2017.05.18-13.28.13:139][ 91]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2017.05.18-13.28.58:518][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-13.28.58:624][439]LogSavePackage: Save=74.73ms
+[2017.05.18-13.28.58:624][439]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/NewMapA0B94CE949C055FDDDA693952E9DA31B.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap'
+[2017.05.18-13.28.58:629][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap
+[2017.05.18-13.28.58:707][439]LogFileHelpers: Saving map 'NewMap' took 1.274
+[2017.05.18-13.29.03:356][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.18-13.29.03:400][910]LogTemp:Display: Removed shader map 0x00000282FFB8F900 from material 0x000002828458A200
+[2017.05.18-13.29.03:400][910]LogTemp:Display: Removed shader map 0x0000028290729280 from material 0x000002828458A200
+[2017.05.18-13.29.03:400][910]LogTemp:Display: Removed shader map 0x00000283110BBC80 from material 0x000002828458A200
+[2017.05.18-13.29.03:488][910]LogSavePackage: Save=41.19ms
+[2017.05.18-13.29.03:488][910]LogSavePackage: Moving '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Saved/NewMap822EB6284157B08C7BF3778FC90FCFC3.tmp' to '../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap'
+[2017.05.18-13.29.03:491][910]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/syj/Desktop/GEPexam/ShootergameExam/Content/Maps/NewMap.umap
